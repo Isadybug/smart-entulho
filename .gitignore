@@ -1,0 +1,13 @@
+# Credenciais locais — NUNCA commitar
+config.h
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Build artifacts do Arduino IDE
+build/
+*.elf
+*.bin
+*.hex
+*.map
